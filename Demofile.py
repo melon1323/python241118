@@ -20,7 +20,7 @@ print(strA.capitalize())
 print("MBC250".isalnum())
 print("2580".isdecimal())
 data = "<<<  spam and ham  >>>"
-result - data.strip("<>")
+result = data.strip("<>")
 print(data)
 print(result)
 print("---리스트로 변환---")
